@@ -3,7 +3,6 @@ Copying Objects
 When we assign object1 to object2 with assignment operator "=", 
 object2 will store the reference of object1. Therefore, when we 
 make changes to object1, the same will reflect in object2, and vice versa.
-
 */
 
 let laptop1 = {
