@@ -14,6 +14,6 @@ for(var i=0; i < car.length; i++) {
     for(var j=0; j < car[i].length; j++) {
         console.log(car[i][j]);
     }
-    console.log("the row ends here");
+    console.log("the row ends here"); // every time a row ends and moves to the next row, it prints "row ends here"
 }
 console.log("indexing complete");
