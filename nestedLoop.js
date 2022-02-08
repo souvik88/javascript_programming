@@ -1,6 +1,6 @@
 /*
-    This is multidimensional array
-    Learn how to iterate in a multidimensional array
+    This is multidimensional array / nested loop
+    Learn how to iterate in a multidimensional array / nested loop
 */
 
 // create a multidimensional array variable called *car*
