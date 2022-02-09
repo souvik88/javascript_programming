@@ -10,6 +10,13 @@ for(var i = 0; i < keys.length; i++){
 }
 
 /*
+var obj = {'one': 1, 'two': 2, 'three': 3}; // initialise an object
+var keys = Object.keys(obj); // Create an array of keys of obj
+
+for(var i = 0; i < keys.length; i++){
+    console.log("key:",keys[i], "value:",obj[keys[i]]); // print key and value
+}
+
 var obj = {'one': 1, 'two': 2, 'three': 3}; // initialize an object
 var keys = Object.keys(obj); // Create an array of keys of obj
 
