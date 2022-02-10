@@ -1,2 +1,9 @@
-Functions
-
+Functions:
+Functions are important because they save time. The goal should be to 
+minimize the amount of time wasted copying and pasting code, or repeating 
+a set of code over and over again. Functions give us the convenience of 
+typing a set of code that performs a set of tasks wrapped in block of 
+function like a tool. And then if we need that specific tool, we simply 
+call that function to perform that set of task. Functions reduce the 
+number of lines of code too.
+Also, if we need to 
