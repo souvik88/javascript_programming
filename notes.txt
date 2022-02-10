@@ -6,4 +6,8 @@ typing a set of code that performs a set of tasks wrapped in block of
 function like a tool. And then if we need that specific tool, we simply 
 call that function to perform that set of task. Functions reduce the 
 number of lines of code too.
-Also, if we need to 
+Also, if we need to update the set of instructions in the functions, we 
+go to that function and update, this also helps us to update or correct 
+the set of code in one place and the changes are going to reflect in all 
+other areas wherever that specific function was called, thus saving a huge 
+amount of time and effort.
