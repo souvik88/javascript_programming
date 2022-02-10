@@ -3,9 +3,11 @@ function outer(a) {
     a++; // value of a will be in incremented
     var b = 30;
     function inner() {
-        console.log("inner function and values", a, b)
+        console.log("inner function", a, b);
+        return
     }
-    return;
+    inner();
+    return a;
 }
 
 var func = outer(2);
