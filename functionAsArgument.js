@@ -14,6 +14,19 @@
 
 // passing an anonymous function as an argument
 
+// function test1(test2) {
+//     console.log('testing0');
+//     console.log('testing1');
+//     test2();
+//     console.log('testing3');
+//     console.log('testing4');
+// }
+// test1(function() {
+//     console.log("hello world");
+// });
+
+// Passing an arrow functions as an argument
+
 function test1(test2) {
     console.log('testing0');
     console.log('testing1');
@@ -21,6 +34,4 @@ function test1(test2) {
     console.log('testing3');
     console.log('testing4');
 }
-test1(function() {
-    console.log("hello world");
-});
+test1(() => console.log("hello world 2"));
