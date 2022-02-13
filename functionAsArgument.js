@@ -1,3 +1,5 @@
+// passing function as an argument
+
 function test0() {
     console.log('testing2');
 }
