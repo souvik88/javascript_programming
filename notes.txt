@@ -12,4 +12,3 @@ the set of code in one place and the changes are going to reflect in all
 other areas wherever that specific function was called, thus saving a huge 
 amount of time and effort.
 
-Arrow Functions:
