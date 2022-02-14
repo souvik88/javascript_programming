@@ -14,3 +14,11 @@ amount of time and effort.
 ---------------------------------------------------------
 
 Introduction to Complexity Measures (DS and Algo in JS)
+
+Time and Space are the two important criteria measuring the efficiency of 
+two Algorithms.
+If Algo A takes lesser time and lesser memory space than Algo B, then Algo A 
+is considered superior or better.
+
+
+
