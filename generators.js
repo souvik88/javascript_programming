@@ -15,7 +15,7 @@
 // console.log(lunch.next());
 /*******************************/
 
-// looping over an array with a generator
+// create a loop generator
 const cars = ["mercedes", "bmw", "audi", "jeep"];
 // creating a loop generator
 function* carLoop(arr) {
