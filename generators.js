@@ -28,11 +28,9 @@
 // console.log(carGenerator.next());
 // console.log(carGenerator.next());
 // console.log(carGenerator.next().value);
-
 /***********************************/
 
 // catching errors with .throw() using generator
-
 function* test() {
     try {
         yield "test0";
