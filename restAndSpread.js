@@ -16,6 +16,9 @@ let myID = ["Souvik", 34, "reading/coding"];
 
 id(...myID);
 
+let arr = [1, 3, 5, 6];
+arr.push(9);
+console.log(arr);
 /*
 // Define a function with three parameters:
 function myBio(firstName, lastName, company) { 
