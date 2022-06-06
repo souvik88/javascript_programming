@@ -31,17 +31,27 @@
 /***********************************/
 
 // catching errors with .throw() using generator
-function* test() {
-    try {
-        yield "test0";
-        yield "test1";
-        yield "test2";
-        yield "test3";
-    }
-    catch(err) {
-        console.log(`Error: ${err}`);
-    }
-}
-const testGenerator = test();
-console.log(testGenerator.next());
-console.log(testGenerator.throw('caught an error'));
+// function* test() {
+//     try {
+//         yield "test0";
+//         yield "test1";
+//         yield "test2";
+//         yield "test3";
+//     }
+//     catch(err) {
+//         console.log(`Error: ${err}`);
+//     }
+// }
+// const testGenerator = test();
+// console.log(testGenerator.next());
+// console.log(testGenerator.throw('caught an error'));
+
+/*************************/
+/*** Blogs ***/
+
+/*
+JavaScript Generators 101
+
+
+
+*/
